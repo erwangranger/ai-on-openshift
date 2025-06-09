@@ -43,3 +43,8 @@ Alternatively, you can also try serving the content using a container image.
 * Create a branch (maintainers team) or fork the repo (other contributors)
 * Develop locally as described above
 * Submit a Pull Request to the `main` branch of the repo
+
+
+### Kickstarts 
+
+more to come
